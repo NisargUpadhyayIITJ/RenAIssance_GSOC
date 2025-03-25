@@ -1,0 +1,9 @@
+torch
+spacy
+pillow
+numpy
+python-Levenshtein
+transformers
+pdf2image
+docling-core
+tabulate
